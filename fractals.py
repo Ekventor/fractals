@@ -3,7 +3,6 @@ from vk_api import VkUpload
 import vk_api
 import numpy as np
 from matplotlib import pyplot as plt
-import traceback
 from numba import jit
 
 
