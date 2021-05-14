@@ -95,5 +95,4 @@ def main():
     except:
         pass
 
-    finally:
-        return "ok"
+    return "ok"
